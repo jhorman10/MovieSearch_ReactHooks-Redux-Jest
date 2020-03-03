@@ -29,7 +29,9 @@ export default makeStyles({
        width: '90%' 
     },
     searchButton: {
-        marginLeft: '.5rem'
+        marginLeft: '.5rem',
+        background: 'linear-gradient(45deg, #2196F3 30%, #21CBF3 90%)',
+        boxShadow: '0 3px 5px 2px rgba(33, 203, 243, .3)',
     },
     buttonsContainer: {
         marginTop: '.5rem'
